@@ -43,7 +43,7 @@ Partial Class Form1
         '
         Me.AplikasiToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ProblemBintangToolStripMenuItem, Me.MatriksKalkulatorToolStripMenuItem, Me.KeluarToolStripMenuItem})
         Me.AplikasiToolStripMenuItem.Name = "AplikasiToolStripMenuItem"
-        Me.AplikasiToolStripMenuItem.Size = New System.Drawing.Size(54, 20)
+        Me.AplikasiToolStripMenuItem.Size = New System.Drawing.Size(60, 20)
         Me.AplikasiToolStripMenuItem.Text = "Aplikasi"
         '
         'ProblemBintangToolStripMenuItem
